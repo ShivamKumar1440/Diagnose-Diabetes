@@ -61,8 +61,11 @@ Build a binary classification model that predicts diabetes based on various medi
   - High accuracy on test data
   - Balanced precision and recall
   - Insights from feature importance and correlations
+![Screenshot 2025-04-18 151157](https://github.com/user-attachments/assets/2bc7e121-e870-4c46-bcbd-3348cf254ff1)
 
 ---
 
-## 🧪 Sample Output
+## 🧪 Samp![Screenshot 2025-04-18 151157](https://github.com/user-attachments/assets/da00330a-249e-47df-8643-950f1f2369891)
+le Output
+
 
